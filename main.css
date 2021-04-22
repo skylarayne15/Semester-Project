@@ -1,0 +1,86 @@
+body {
+    background-color: #2f195f;
+    width: 1500px;
+    height:960px;
+
+}
+
+h1 {
+    color: #7353BA;
+    font-family: cursive;
+    font-style: inherit;
+    text-align: center;
+    font-size: 50px;
+}
+h2 {
+    color: #7353BA;
+    margin-top: 30px;
+    font-family: "Segoe UI Semibold";
+    font-size: 40px;
+    text-align: center;
+}
+h3{
+    color: #7353BA;
+    margin-top: 30px;
+    font-family: "Javanese Text";
+    font-size: 30px;
+}
+p{
+    color: #FAA6FF;
+    font-size: 20px;
+    text-align: left;
+    margin-top: 20px;
+    font-family: "Comic Sans MS";
+}
+div{
+    color: #EFC3F5;
+}
+#header{
+    text-align: center;
+}
+.left{
+    float: left;
+}
+footer{
+    color: #FAA6FF;
+    text-align: center;
+}
+img{
+    size: fixed;!important;
+}
+input[type=text], select, textarea {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-top: 6px;
+    margin-bottom: 16px;
+    resize: vertical
+}
+
+input[type=submit] {
+    background-color: #4CAF50;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+
+input[type=submit]:hover {
+    background-color: #45a049;
+}
+
+.container {
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 20px;
+}
+/*DEVELOPER: Skyla Negron, IS117-002, Spring, 2021 */
+
+
+
+
+
